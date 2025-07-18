@@ -1,0 +1,5 @@
+[
+  {"id": "t_tree_small_alien_1", "fg": ["t_tree_small_alien_1"], "bg": ["t_dirt_64x80"], "rotates": false},
+  {"id": "t_tree_small_alien_2", "fg": ["t_tree_small_alien_2"], "bg": ["t_dirt_64x80"], "rotates": false},
+  {"id": "t_tree_small_alien_3", "fg": ["t_tree_small_alien_3"], "bg": ["t_dirt_64x80"], "rotates": false}
+]
